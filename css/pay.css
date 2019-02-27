@@ -1,0 +1,9 @@
+.list .check {
+    background:url(../images/pay_02.png) no-repeat center;
+    height: 40px;
+    padding:0;
+}
+.list .active {
+    background:url(../images/pay_01.png) no-repeat center;
+    height: 40px;
+}
